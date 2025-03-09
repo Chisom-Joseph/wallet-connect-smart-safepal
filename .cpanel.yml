@@ -1,4 +1,4 @@
 deployment:
   tasks:
-    - export DEPLOY_PATH=/home/kovmnsdo/connect.smart-safepal.com
+    - export DEPLOY_PATH=/home/ujbsqmwc/connect.smart-safepal.com
     - /bin/cp -r * $DEPLOY_PATH
